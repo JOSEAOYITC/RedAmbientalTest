@@ -58,9 +58,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Curso_10", "Curso_10", "{CB
 		C10\Detalles.txt = C10\Detalles.txt
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{ECB18D40-37AD-4107-80E7-E8B354F06181}"
+	ProjectSection(SolutionItems) = preProject
+		00.Labs\Tools\Dynamics 365 Power Pane.txt = 00.Labs\Tools\Dynamics 365 Power Pane.txt
+		00.Labs\Tools\Notepad++.txt = 00.Labs\Tools\Notepad++.txt
+		00.Labs\Tools\Postman.txt = 00.Labs\Tools\Postman.txt
+		00.Labs\Tools\PRT_9.X.zip = 00.Labs\Tools\PRT_9.X.zip
+		00.Labs\Tools\XrmToolbox.zip = 00.Labs\Tools\XrmToolbox.zip
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ECB18D40-37AD-4107-80E7-E8B354F06181} = {4FFC05E1-7C54-4CAF-8127-EC02998F6074}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6B5F72BA-CC1E-4125-95C9-F29E8F325C73}
