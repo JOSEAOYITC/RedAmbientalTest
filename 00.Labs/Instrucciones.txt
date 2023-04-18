@@ -1,0 +1,12 @@
+// ===================================================================================================
+// Nombre:Intrucciones.txt
+// Descripción: Información general sobre el Laboratorio y sus prácticas o ejercicios.
+// Creado el: 18 de Abril de 2023
+// Creado por: José Arturo Acuña Ortega, joseao@youritconsulting.mx
+// ===================================================================================================
+
+Instrucciones:
+- En esta carpeta se colocarán los documentos para que realices las prácticas particulares.
+- Por favor no modifiques los archivos de esta carpeta.
+- Identifica tu carpeta de trabajo.
+- Trabaja todos los ejecricios en tu carpeta de trabajo.

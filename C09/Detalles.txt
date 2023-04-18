@@ -1,0 +1,6 @@
+// ===================================================================================================
+// Nombre: << Escribe tu Nombre completo >>
+// Descripción: Carpeta de proyectos para los laboratorios del curso
+// Creado el: 18 de Abril de 2023
+// Creado por: José Arturo Acuña Ortega, joseao@youritconsulting.mx
+// ===================================================================================================

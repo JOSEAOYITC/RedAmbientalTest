@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00.Labs", "00.Labs", "{4FFC05E1-7C54-4CAF-8127-EC02998F6074}"
+	ProjectSection(SolutionItems) = preProject
+		00.Labs\Instrucciones.txt = 00.Labs\Instrucciones.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Curso_01", "Curso_01", "{53605BE0-A38D-49B6-BAD4-34DD3EB135BA}"
+	ProjectSection(SolutionItems) = preProject
+		C01\Detalles.txt = C01\Detalles.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Curso_02", "Curso_02", "{25314E99-A46B-434B-ADF2-25CF75AF9CF1}"
+	ProjectSection(SolutionItems) = preProject
+		C02\Detalles.txt = C02\Detalles.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Curso_03", "Curso_03", "{2E5FD16A-CE22-4B9C-878E-FFB37AF847A9}"
+	ProjectSection(SolutionItems) = preProject
+		C03\Detalles.txt = C03\Detalles.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Curso_04", "Curso_04", "{AD00BB13-E343-45A9-BEC4-A7F300C3A579}"
+	ProjectSection(SolutionItems) = preProject
+		C04\Detalles.txt = C04\Detalles.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Curso_05", "Curso_05", "{853341D8-270B-42EF-BB16-973E0421B70D}"
+	ProjectSection(SolutionItems) = preProject
+		C05\Detalles.txt = C05\Detalles.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Curso_06", "Curso_06", "{AB34B315-B92B-4E70-A636-B73F6F20B8D5}"
+	ProjectSection(SolutionItems) = preProject
+		C06\Detalles.txt = C06\Detalles.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Curso_07", "Curso_07", "{7415C9EC-B59E-404C-9BDE-E779A01AF8AB}"
+	ProjectSection(SolutionItems) = preProject
+		C07\Detalles.txt = C07\Detalles.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Curso_08", "Curso_08", "{ED0BD821-4F23-4224-96B2-3FA27F76342E}"
+	ProjectSection(SolutionItems) = preProject
+		C08\Detalles.txt = C08\Detalles.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Curso_09", "Curso_09", "{3DFF02DF-15C9-4092-9C67-8736BCC8A446}"
+	ProjectSection(SolutionItems) = preProject
+		C09\Detalles.txt = C09\Detalles.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Curso_10", "Curso_10", "{CB692031-FB40-49F2-BF7F-41DA84821D34}"
+	ProjectSection(SolutionItems) = preProject
+		C10\Detalles.txt = C10\Detalles.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B5F72BA-CC1E-4125-95C9-F29E8F325C73}
+	EndGlobalSection
+EndGlobal
